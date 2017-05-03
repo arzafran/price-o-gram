@@ -10,3 +10,5 @@ Talking with a colleague at work ([@matiasbeckerle](https://github.com/matiasbec
 So, as a joke, we discussed about creating a React app to do that simple math. And that's the waaaaaay the news goes!
 
 Thanks for watching :)
+
+## [Link to the app](https://price-o-gram.herokuapp.com)
