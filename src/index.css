@@ -10,7 +10,7 @@ h1 {
   top: 5%;
 	left: 50%;
 	transform: translateX(-50%);
-	font-size: 48px;
+	font-size: 36px;
 }
 
 .input:focus {
