@@ -11,10 +11,12 @@
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
+	position: relative;
 	padding: 10px;
 	border: 1px solid #CCC;
 	border-radius: 3px;
 	background-color: #FFF;
+	box-shadow: inset 0 0 3px 0 rgba(125,125,125, 0.8);
 }
 
 .magicbox__label {
@@ -22,10 +24,33 @@
 	padding: 10px;
 }
 
+.magicbox__label--previous {
+	font-size: 30px;
+	color: #999;
+}
+
+.btn {
+	appearance: none;
+	border: none;
+	border-left: 1px solid #CCC;
+	border-top: 1px solid #CCC;
+	border-bottom: 1px solid #CCC;
+	border-top-left-radius: 3px;
+	border-bottom-left-radius: 3px;
+	background-color: #EEE;
+	position: absolute;
+  right: -1px;
+  top: 49%;
+	padding: 10px;
+}
+
 .input {
-	font-family: 'VT323', monospace;
 	font-size: 24px;
 	padding: 10px;
 	border: none;
 	text-align: center;
+}
+
+.input + .input {
+	margin-top: 5px;
 }
