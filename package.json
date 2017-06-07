@@ -4,6 +4,7 @@
   "description": "React based price-per-gram generator",
   "main": "index.js",
   "author": "arzafran.co",
+  "homepage" : "http://price-o-gram.herokuapp.com/",
   "license": "ISC",
   "repository": {
     "type": "git",
