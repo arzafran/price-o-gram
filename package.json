@@ -5,10 +5,6 @@
   "main": "index.js",
   "author": "arzafran.co",
   "license": "ISC",
-  "engines": {
-    "node": "7.9.0",
-    "npm": "4.2.0"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/arzafran/price-o-gram.git"
@@ -16,12 +12,13 @@
   "keywords": [
     "react"
   ],
+  "private": true,
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
   "devDependencies": {
-    "react-scripts": "0.9.5"
+    "react-scripts": "1.0.7"
   },
   "scripts": {
     "start": "react-scripts start",

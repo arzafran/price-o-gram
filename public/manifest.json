@@ -1,0 +1,15 @@
+{
+  "short_name": "Price-o-Gram",
+  "name": "Price-o-Gram React PWA",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#f38",
+  "background_color": "#CCCCCC"
+}
