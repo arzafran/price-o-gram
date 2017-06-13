@@ -1,4 +1,4 @@
-# React Price-O-Gram generator!
+# Price-O-Gram
 
 This is just a basic React app to know the price-per-gram of stuff.
 
