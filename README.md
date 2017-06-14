@@ -11,4 +11,4 @@ So, as a joke, we discussed about creating a React app to do that simple math. A
 
 Thanks for watching :)
 
-## [Link to the app](https://price-o-gram.herokuapp.com)
+## [Link to the app](https://arzafran.co/price-o-gram)
