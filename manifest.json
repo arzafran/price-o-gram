@@ -37,6 +37,42 @@
     "sizes": "192x192",
     "type": "image\/png",
     "density": "4.0"
+    },
+    {
+    "src": "\/android-icon-385x385.png",
+    "sizes": "385x385",
+    "type": "image\/png",
+    "density": "4.0"
+    },
+    {
+    "src": "\/android-icon-512x512.png",
+    "sizes": "512x512",
+    "type": "image\/png",
+    "density": "4.0"
+    },
+    {
+    "src": "\/android-icon-768x768.png",
+    "sizes": "768x768",
+    "type": "image\/png",
+    "density": "4.0"
+    },
+    {
+    "src": "\/android-icon-1024x1024.png",
+    "sizes": "1024x1024",
+    "type": "image\/png",
+    "density": "4.0"
+    },
+    {
+    "src": "\/android-icon-1536x1536.png",
+    "sizes": "1536x1536",
+    "type": "image\/png",
+    "density": "4.0"
+    },
+    {
+    "src": "\/android-icon-2048x2048.png",
+    "sizes": "2048x2048",
+    "type": "image\/png",
+    "density": "4.0"
     }
   ],
   "start_url": "/index.html",
