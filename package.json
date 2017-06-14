@@ -4,7 +4,7 @@
   "description": "React based price-per-gram generator",
   "main": "index.js",
   "author": "arzafran.co",
-  "homepage" : "http://price-o-gram.herokuapp.com/",
+  "homepage": "https://arzafran.co/price-o-gram",
   "license": "ISC",
   "repository": {
     "type": "git",
@@ -19,12 +19,15 @@
     "react-dom": "^15.5.4"
   },
   "devDependencies": {
+    "gh-pages": "^1.0.0",
     "react-scripts": "1.0.7"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   }
 }
